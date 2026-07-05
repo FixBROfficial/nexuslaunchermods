@@ -6,6 +6,10 @@
   "minecraftVersion": "1.21.1",
   "loader": "fabric",
   "loaderVersion": "0.19.3",
+  "color": {
+    "from": "#ff33d6",
+    "to": "#000000"
+},
   "replacePaths": [
   ],
   "configReplacePaths": [
@@ -15,9 +19,5 @@
     "minecraft/options.txt",
     "minecraft/servers.dat",
     "minecraft/config/cpm.json"
-  ],
-  "color": {
-  "from": "#ff33d6",
-  "to": "#000000"
-}
+  ]
 }
