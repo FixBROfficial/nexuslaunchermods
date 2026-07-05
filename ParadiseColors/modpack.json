@@ -15,5 +15,9 @@
     "minecraft/options.txt",
     "minecraft/servers.dat",
     "minecraft/config/cpm.json"
-  ]
+  ],
+  "color": {
+  "from": "#ff33d6",
+  "to": "#000000"
+}
 }
