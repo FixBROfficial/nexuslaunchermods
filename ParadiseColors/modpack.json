@@ -1,0 +1,18 @@
+{
+  "id": "paradise-colors",
+  "name": "Paradise Colors",
+  "title": "PARADISE COLORS",
+  "story": "**Historia:**\nEssa merda aqui é só um teste que eu vou mudar depois qwp",
+  "minecraftVersion": "1.21.1",
+  "loader": "fabric",
+  "loaderVersion": "0.19.3",
+  "replacePaths": [
+  ],
+  "configReplacePaths": [
+    "fancymenu"
+  ],
+  "files": [
+    "minecraft/options.txt",
+    "minecraft/servers.dat"
+  ]
+}
