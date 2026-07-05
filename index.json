@@ -4,6 +4,11 @@
       "id": "roleplay-template",
       "name": "Roleplay Modpack",
       "baseUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/RoleplayTemplate/"
+    },
+    {
+      "id": "paradise-colors",
+      "name": "Paradise Colors",
+      "baseUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/ParadiseColors/"
     }
   ]
 }
