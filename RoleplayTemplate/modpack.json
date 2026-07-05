@@ -1,0 +1,22 @@
+{
+  "id": "roleplay-template",
+  "name": "Roleplay Modpack",
+  "title": "Titulo do Roleplay Selecionado",
+  "story": "**Historia:**\nEste e um texto de exemplo para a historia do roleplay.\n\n*Texto entre asteriscos fica em italico no launcher.*\n**Texto entre dois asteriscos fica em negrito.**",
+  "minecraftVersion": "1.21.1",
+  "loader": "fabric",
+  "loaderVersion": "0.16.9",
+  "resourcepackId": "rp-roleplay-template",
+  "replacePaths": [
+    "mods",
+    "config",
+    "resourcepacks",
+    "options.txt"
+  ],
+  "files": [
+    "minecraft/options.txt",
+    "minecraft/config/nexus-example.toml",
+    "minecraft/mods/coloque-os-mods-aqui.jar.placeholder",
+    "minecraft/resourcepacks/coloque-resourcepacks-aqui.zip.placeholder"
+  ]
+}

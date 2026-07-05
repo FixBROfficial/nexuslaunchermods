@@ -1,0 +1,8 @@
+**Nexus Roleplay - Changelog**
+
+*v1.0.0*
+- Primeiro template do modpack.
+- Estrutura de pastas preparada.
+- Exemplo de config, mods e resourcepacks.
+
+Use este arquivo como se fosse uma mensagem do Discord.

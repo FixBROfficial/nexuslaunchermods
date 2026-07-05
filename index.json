@@ -1,0 +1,9 @@
+{
+  "modpacks": [
+    {
+      "id": "roleplay-template",
+      "name": "Roleplay Modpack",
+      "baseUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/RoleplayTemplate/"
+    }
+  ]
+}
