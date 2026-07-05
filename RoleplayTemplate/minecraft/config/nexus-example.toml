@@ -1,6 +1,0 @@
-# Arquivo de config de exemplo.
-# Troque por configuracoes reais dos mods do roleplay.
-
-[nexus]
-template = true
-roleplay = "Roleplay Template"
